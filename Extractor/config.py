@@ -4,26 +4,26 @@ from os import getenv
 
 
 # ------------------------------------------------
-API_ID = int(os.environ.get("API_ID", "24869695"))
+API_ID = int(os.environ.get("API_ID", "29978901"))
 # ------------------------------------------------
-API_HASH = os.environ.get("API_HASH","5ee98927939d175ca953297fbe309f37")
+API_HASH = os.environ.get("API_HASH","500fc876c5356cf04ed3698912dc2edf")
 # ------------------------------------------------
 BOT_TOKEN = os.environ.get("BOT_TOKEN", "")
 # ------------------------------------------------
-BOT_USERNAME = os.environ.get("BOT_USERNAME", "@FORWARD_44BOT")
+BOT_USERNAME = os.environ.get("BOT_USERNAME", "@Txtextractorbotbot")
 BOT_TEXT = "TxtExtractor"
 # ------------------------------------------------
-OWNER_ID = int(os.environ.get("OWNER_ID", "7693352537"))
+OWNER_ID = int(os.environ.get("OWNER_ID", "5776977809"))
 # ------------------------------------------------
 # //LOG CHANNEL ID 
-CHANNEL_ID = int(os.environ.get("CHANNEL_ID", "-1003098184754"))
+CHANNEL_ID = int(os.environ.get("CHANNEL_ID", "-1003068385283"))
 
 # //FORCE_CHANNEL_ID
-CHANNEL_ID2 = int(os.environ.get("CHANNEL_ID2", "-1003098184754")) 
+CHANNEL_ID2 = int(os.environ.get("CHANNEL_ID2", "-1003068385283")) 
 # ------------------------------------------------
-MONGO_URL = os.environ.get("MONGO_URL", "mongodb+srv://nitinkumarrayji:kDa1SZhovodoXIHB@cluster0.pmdssa7.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
+MONGO_URL = os.environ.get("MONGO_URL", "mongodb+srv://rupakaryanaryan:rupakaryanaryan@cluster0.05xkjx2.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
 # -----------------------------------------------
-PREMIUM_LOGS = int(os.environ.get("PREMIUM_LOGS", "-1003098184754"))
+PREMIUM_LOGS = int(os.environ.get("PREMIUM_LOGS", "-1003068385283"))
 # -----------------------------------------------
 join = '<a href="https://t.me/Nikhilbhaiiibot">✳️ JOIN BACKUP</a>'
 # -----------------------------------------------
