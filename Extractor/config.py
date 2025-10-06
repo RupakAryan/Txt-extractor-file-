@@ -4,11 +4,11 @@ from os import getenv
 
 
 # ------------------------------------------------
-API_ID = int(os.environ.get("API_ID", "29978901"))
+API_ID = int(os.environ.get("29978901"))
 # ------------------------------------------------
-API_HASH = os.environ.get("API_HASH","500fc876c5356cf04ed3698912dc2edf")
+API_HASH = os.environ.get("500fc876c5356cf04ed3698912dc2edf")
 # ------------------------------------------------
-BOT_TOKEN = os.environ.get("BOT_TOKEN", "")
+BOT_TOKEN = os.environ.get("8400419495:AAHPVhXaN4uKeiCGjvNGhic5S1SZWdH2YFc")
 # ------------------------------------------------
 BOT_USERNAME = os.environ.get("BOT_USERNAME", "@Txtextractorbotbot")
 BOT_TEXT = "TxtExtractor"
